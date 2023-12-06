@@ -4,7 +4,32 @@ console.log(
 );
 
 // Exercise 1
+const firstName = "Maverick"; // had to assign here since constant
+let lastName;
+var age;
 
 // Exercise 2
+// can't reassign firstName due to it being constant
+lastName = "Grayer";
+age = 28;
+
 
 // Exercise 3
+let language = "JavaScript";
+let createdYear = 1995;
+let isCaseSensitive = true;
+
+//exercise 4
+let price = 19.99;
+let isOnSale = false;
+let salePercentage = 15;
+let stock = 0;
+let inStock = false;
+let selectedSize = "M";
+
+//exercise 5
+let title = "Name of the Wind";
+let author = "Patrick Rothfuss";
+let pageCount = 722;
+let bookmark = 456;
+let hasRead = true;
